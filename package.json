@@ -1,0 +1,17 @@
+{
+  "name": "prime_peer_nd_01",
+  "version": "1.0.0",
+  "description": "Peer Challenge",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "node": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Cody and Steve",
+  "license": "ISC"
+}
